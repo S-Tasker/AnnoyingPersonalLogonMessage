@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Annoying Personal Logon Message (Guild)
+## Notes: Annoys online guild mmebers when you logon, by giving them a personal logon message!
+## Version: 0.0.1
+## SavedVariablesPerCharacter: AnnoyingPersonalLogonMessageGuild
+
+script.lua
