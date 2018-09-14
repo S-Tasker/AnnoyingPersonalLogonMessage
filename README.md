@@ -1,2 +1,2 @@
 # AnnoyingPersonalLogonMessage
-LUA Addon for World of Warcraft to whisper custom/random logon messages to online guild members.
+LUA Addon for World of Warcraft to send "random" logon messages to online guild members in guild chat.
